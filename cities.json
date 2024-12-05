@@ -665,8 +665,8 @@
     {
         "Name": "Praha",
         "Country": "Чехія",
-        "X": 13699.582,
-        "Z": 3458.84766,
+        "X": 14482.4,
+        "Z": 3775.5,
         "CountryId": 3,
         "LocalizedNames": {
             "bg_bg": "Прага",
@@ -971,8 +971,8 @@
     {
         "Name": "Brno",
         "Country": "Чехія",
-        "X": 21873.7148,
-        "Z": 8794.824,
+        "X": 22255.5,
+        "Z": 9502.83,
         "CountryId": 3,
         "LocalizedNames": {
             "bg_bg": "Бърно",
@@ -2348,8 +2348,8 @@
     {
         "Name": "Luxembourg",
         "Country": "Люксембург",
-        "X": -16384.34,
-        "Z": 3937.84766,
+        "X": -16134.2,
+        "Z": 4382.97,
         "CountryId": 12,
         "LocalizedNames": {
             "bg_bg": "Люксембург",
@@ -2501,8 +2501,8 @@
     {
         "Name": "Liège",
         "Country": "Бельгія",
-        "X": -17581.6484,
-        "Z": -1501.37891,
+        "X": -17181.5,
+        "Z": -1231.25,
         "CountryId": 2,
         "LocalizedNames": {
             "bg_bg": "Лиеж",
@@ -2705,8 +2705,8 @@
     {
         "Name": "Brussel",
         "Country": "Бельгія",
-        "X": -22026.1719,
-        "Z": -3705.15625,
+        "X": -21576,
+        "Z": -3235.03,
         "CountryId": 2,
         "LocalizedNames": {
             "bg_bg": "Брюксел",
@@ -3011,8 +3011,8 @@
     {
         "Name": "Felixstowe",
         "Country": "Велика Британія",
-        "X": -31964.6836,
-        "Z": -14857.3438,
+        "X": -31664.6,
+        "Z": -13837.2,
         "CountryId": 10,
         "LocalizedNames": {
             "bg_bg": "Феликсстоу",
@@ -3062,8 +3062,8 @@
     {
         "Name": "Dover",
         "Country": "Велика Британія",
-        "X": -33772.0742,
-        "Z": -8554.48,
+        "X": -33336.9,
+        "Z": -7562.87,
         "CountryId": 10,
         "LocalizedNames": {
             "bg_bg": "Дувър",
@@ -3113,8 +3113,8 @@
     {
         "Name": "London",
         "Country": "Велика Британія",
-        "X": -40196.9922,
-        "Z": -12259.34,
+        "X": -39398.7,
+        "Z": -11405.7,
         "CountryId": 10,
         "LocalizedNames": {
             "bg_bg": "Лондон",
@@ -3164,8 +3164,8 @@
     {
         "Name": "Cambridge",
         "Country": "Велика Британія",
-        "X": -37322.8125,
-        "Z": -16539.5234,
+        "X": -36822.7,
+        "Z": -16119.4,
         "CountryId": 10,
         "LocalizedNames": {
             "bg_bg": "Кембридж",
@@ -3215,8 +3215,8 @@
     {
         "Name": "Grimsby",
         "Country": "Велика Британія",
-        "X": -36868.0234,
-        "Z": -27345.3086,
+        "X": -36460.4,
+        "Z": -26655.2,
         "CountryId": 10,
         "LocalizedNames": {
             "bg_bg": "Гримзби",
@@ -3266,8 +3266,8 @@
     {
         "Name": "Newcastle-upon-Tyne",
         "Country": "Велика Британія",
-        "X": -40128.168,
-        "Z": -39307.8438,
+        "X": -39778,
+        "Z": -38787.7,
         "CountryId": 10,
         "LocalizedNames": {
             "bg_bg": "Нюкасъл ъпон Тайн",
@@ -3317,8 +3317,8 @@
     {
         "Name": "Aberdeen",
         "Country": "Велика Британія",
-        "X": -39596.793,
-        "Z": -56040.47,
+        "X": -38865.9,
+        "Z": -54898.2,
         "CountryId": 10,
         "LocalizedNames": {
             "bg_bg": "Абърдийн",
@@ -3368,8 +3368,8 @@
     {
         "Name": "Sheffield",
         "Country": "Велика Британія",
-        "X": -43088.88,
-        "Z": -27107.6914,
+        "X": -42688.8,
+        "Z": -26687.6,
         "CountryId": 10,
         "LocalizedNames": {
             "bg_bg": "Шефилд",
@@ -3419,8 +3419,8 @@
     {
         "Name": "Southampton",
         "Country": "Велика Британія",
-        "X": -46838.8672,
-        "Z": -7893.371,
+        "X": -46338.7,
+        "Z": -7523.25,
         "CountryId": 10,
         "LocalizedNames": {
             "bg_bg": "Саутхамптън",
@@ -3470,8 +3470,8 @@
     {
         "Name": "Birmingham",
         "Country": "Велика Британія",
-        "X": -46451.25,
-        "Z": -20943.125,
+        "X": -45951.1,
+        "Z": -20423,
         "CountryId": 10,
         "LocalizedNames": {
             "bg_bg": "Бирмингам",
@@ -3521,8 +3521,8 @@
     {
         "Name": "Manchester",
         "Country": "Велика Британія",
-        "X": -46298.7773,
-        "Z": -28585.1445,
+        "X": -45548.7,
+        "Z": -27815,
         "CountryId": 10,
         "LocalizedNames": {
             "bg_bg": "Манчестър",
@@ -3623,8 +3623,8 @@
     {
         "Name": "Edinburgh",
         "Country": "Велика Британія",
-        "X": -45400.8672,
-        "Z": -47889.7969,
+        "X": -44900.7,
+        "Z": -47219.7,
         "CountryId": 10,
         "LocalizedNames": {
             "bg_bg": "Единбург",
@@ -3674,8 +3674,8 @@
     {
         "Name": "Liverpool",
         "Country": "Велика Британія",
-        "X": -49621.86,
-        "Z": -29861.957,
+        "X": -48560.7,
+        "Z": -28710.5,
         "CountryId": 10,
         "LocalizedNames": {
             "bg_bg": "Ливърпул",
@@ -3725,8 +3725,8 @@
     {
         "Name": "Glasgow",
         "Country": "Велика Британія",
-        "X": -51134.8242,
-        "Z": -49241.7461,
+        "X": -50384.7,
+        "Z": -48471.6,
         "CountryId": 10,
         "LocalizedNames": {
             "bg_bg": "Гласгоу",
@@ -3776,8 +3776,8 @@
     {
         "Name": "Cardiff",
         "Country": "Велика Британія",
-        "X": -54555.4023,
-        "Z": -15118.57,
+        "X": -45889.2,
+        "Z": -39573.5,
         "CountryId": 10,
         "LocalizedNames": {
             "bg_bg": "Кардиф",
@@ -3827,8 +3827,8 @@
     {
         "Name": "Swansea",
         "Country": "Велика Британія",
-        "X": -57646.13,
-        "Z": -17652.07,
+        "X": -56896,
+        "Z": -16881.9,
         "CountryId": 10,
         "LocalizedNames": {
             "bg_bg": "Суонзи",
@@ -3878,8 +3878,8 @@
     {
         "Name": "Plymouth",
         "Country": "Велика Британія",
-        "X": -60566.5,
-        "Z": -8502.445,
+        "X": -59910.2,
+        "Z": -7748.01,
         "CountryId": 10,
         "LocalizedNames": {
             "bg_bg": "Плимът",
@@ -7295,8 +7295,8 @@
     {
         "Name": "Ostrava",
         "Country": "Чехія",
-        "X": 27831.8125,
-        "Z": 4715.97656,
+        "X": 28231.9,
+        "Z": 5136.1,
         "CountryId": 3,
         "LocalizedNames": {
             "bg_bg": "Острава",
@@ -11668,6 +11668,156 @@
         }
     },
     {
+        "Name": "Coruña",
+        "Country": "Іспанія",
+        "X": -82497.3,
+        "Z": 27317.1,
+        "CountryId": 35,
+        "LocalizedNames": {
+            "uk_uk": "Ла-Корунья"
+        }
+    },
+    {
+        "Name": "Albacete",
+        "Country": "Іспанія",
+        "X": -58895.2,
+        "Z": 57870.2,
+        "CountryId": 35,
+        "LocalizedNames": {
+            "uk_uk": "Альбасете"
+        }
+    },
+    {
+        "Name": "Algeciras",
+        "Country": "Іспанія",
+        "X": -80394.8,
+        "Z": 69406,
+        "CountryId": 35,
+        "LocalizedNames": {
+            "uk_uk": "Альхесірас"
+        }
+    },
+    {
+        "Name": "Algeciras1",
+        "Country": "Іспанія",
+        "X": -79795.6,
+        "Z": 70094.2,
+        "CountryId": 35,
+        "LocalizedNames": {
+            "uk_uk": "Альхесірас"
+        }
+    },
+    {
+        "Name": "Algeciras2",
+        "Country": "Іспанія",
+        "X": -79168.3,
+        "Z": 70992,
+        "CountryId": 35,
+        "LocalizedNames": {
+            "uk_uk": "Альхесірас"
+        }
+    },
+    {
+        "Name": "Algeciras3",
+        "Country": "Іспанія",
+        "X": -78469,
+        "Z": 70599.2,
+        "CountryId": 35,
+        "LocalizedNames": {
+            "uk_uk": "Альхесірас"
+        }
+    },
+    {
+        "Name": "Algeciras5",
+        "Country": "Іспанія",
+        "X": -78544.2,
+        "Z": 69697.4,
+        "CountryId": 35,
+        "LocalizedNames": {
+            "uk_uk": "Альхесірас"
+        }
+    },
+    {
+        "Name": "Algeciras6",
+        "Country": "Іспанія",
+        "X": -78469,
+        "Z": 70599.2,
+        "CountryId": 35,
+        "LocalizedNames": {
+            "uk_uk": "Альхесірас"
+        }
+    },
+    {
+        "Name": "Almaraz",
+        "Country": "Іспанія",
+        "X": -74583.6,
+        "Z": 49536.4,
+        "CountryId": 35,
+        "LocalizedNames": {
+            "uk_uk": "Альмарас"
+        }
+    },
+    {
+        "Name": "Almería",
+        "Country": "Іспанія",
+        "X": -62797,
+        "Z": 69591.5,
+        "CountryId": 35,
+        "LocalizedNames": {
+            "uk_uk": "Альмерія"
+        }
+    },
+    {
+        "Name": "Almería1",
+        "Country": "Іспанія",
+        "X": -62556.3,
+        "Z": 70148,
+        "CountryId": 35,
+        "LocalizedNames": {
+            "uk_uk": "Альмерія"
+        }
+    },
+    {
+        "Name": "Almería2",
+        "Country": "Іспанія",
+        "X": -63571.6,
+        "Z": 69943.2,
+        "CountryId": 35,
+        "LocalizedNames": {
+            "uk_uk": "Альмерія"
+        }
+    },
+    {
+        "Name": "Barcelona",
+        "Country": "Іспанія",
+        "X": -38266.4,
+        "Z": 48093.5,
+        "CountryId": 35,
+        "LocalizedNames": {
+            "uk_uk": "Бадахоз"
+        }
+    },
+    {
+        "Name": "Bilbao",
+        "Country": "Іспанія",
+        "X": -58108.2,
+        "Z": 32949.6,
+        "CountryId": 35,
+        "LocalizedNames": {
+            "uk_uk": "Більбао"
+        }
+    },
+    {
+        "Name": "Burgos",
+        "Country": "Іспанія",
+        "X": -61834,
+        "Z": 37727.1,
+        "CountryId": 35,
+        "LocalizedNames": {
+            "uk_uk": "Бургос"
+        }
+    },
+    {
         "Name": "Mengíbar",
         "Country": "Іспанія",
         "X": -67814.9,
@@ -11685,6 +11835,186 @@
         "CountryId": 35,
         "LocalizedNames": {
             "uk_uk": "Кордова"
+        }
+    },
+    {
+        "Name": "El Ejido",
+        "Country": "Іспанія",
+        "X": -67690.2,
+        "Z": 69208.4,
+        "CountryId": 35,
+        "LocalizedNames": {
+            "uk_uk": "Ель-Ехідо"
+        }
+    },
+    {
+        "Name": "Gijón",
+        "Country": "Іспанія",
+        "X": -70228,
+        "Z": 29264,
+        "CountryId": 35,
+        "LocalizedNames": {
+            "uk_uk": "Хіхон"
+        }
+    },
+    {
+        "Name": "Granada",
+        "Country": "Іспанія",
+        "X": -70182,
+        "Z": 66102,
+        "CountryId": 35,
+        "LocalizedNames": {
+            "uk_uk": "Гранада"
+        }
+    },
+    {
+        "Name": "Huelva",
+        "Country": "Іспанія",
+        "X": -84687.5,
+        "Z": 62584.3,
+        "CountryId": 35,
+        "LocalizedNames": {
+            "uk_uk": "Уельва"
+        }
+    },
+    {
+        "Name": "León",
+        "Country": "Іспанія",
+        "X": -70426.2,
+        "Z": 34816.5,
+        "CountryId": 35,
+        "LocalizedNames": {
+            "uk_uk": "Леон"
+        }
+    },
+    {
+        "Name": "Lleida",
+        "Country": "Іспанія",
+        "X": -45505.8,
+        "Z": 45123.8,
+        "CountryId": 35,
+        "LocalizedNames": {
+            "uk_uk": "Леріда"
+        }
+    },
+    {
+        "Name": "Málaga",
+        "Country": "Іспанія",
+        "X": -73044.2,
+        "Z": 68830,
+        "CountryId": 35,
+        "LocalizedNames": {
+            "uk_uk": "Малага"
+        }
+    },
+    {
+        "Name": "Mengíbar",
+        "Country": "Іспанія",
+        "X": -67814.9,
+        "Z": 63139.8,
+        "CountryId": 35,
+        "LocalizedNames": {
+            "uk_uk": "Менгібар"
+        }
+    },
+    {
+        "Name": "Murcia",
+        "Country": "Іспанія",
+        "X": -67814.9,
+        "Z": 63139.8,
+        "CountryId": 35,
+        "LocalizedNames": {
+            "uk_uk": "Мурсія"
+        }
+    },
+    {
+        "Name": "Pristina",
+        "Country": "Косово",
+        "X": 42673.6,
+        "Z": 43605.8,
+        "CountryId": 1,
+        "LocalizedNames": {
+            "uk_uk": "Приштина"
+        }
+    },
+    {
+        "Name": "Бітола",
+        "Country": "Північна Македонія",
+        "X": 45108.8,
+        "Z": 52483.2,
+        "CountryId": 1,
+        "LocalizedNames": {
+            "uk_uk": "Бітола"
+        }
+    },
+    {
+        "Name": "Skopje",
+        "Country": "Північна Македонія",
+        "X": 43769.4,
+        "Z": 48384,
+        "CountryId": 1,
+        "LocalizedNames": {
+            "uk_uk": "Скоп'є"
+        }
+    },
+    {
+        "Name": "Athens",
+        "Country": "Греція",
+        "X": 56730.6,
+        "Z": 69993.6,
+        "CountryId": 1,
+        "LocalizedNames": {
+            "uk_uk": "Афіни"
+        }
+    },
+    {
+        "Name": "Athens1",
+        "Country": "Греція",
+        "X": 57119.2,
+        "Z": 70964.4,
+        "CountryId": 1,
+        "LocalizedNames": {
+            "uk_uk": "Афіни"
+        }
+    },
+    {
+        "Name": "Athens1",
+        "Country": "Греція",
+        "X": 57198.7,
+        "Z": 70962.8,
+        "CountryId": 1,
+        "LocalizedNames": {
+            "uk_uk": "Афіни"
+        }
+    },
+    {
+        "Name": "Rhodes",
+        "Country": "Греція",
+        "X": 77685.9,
+        "Z": 76659.3,
+        "CountryId": 1,
+        "LocalizedNames": {
+            "uk_uk": "Родос"
+        }
+    },
+    {
+        "Name": "Rhodes1",
+        "Country": "Греція",
+        "X": 77229.2,
+        "Z": 77120.2,
+        "CountryId": 1,
+        "LocalizedNames": {
+            "uk_uk": "Родос"
+        }
+    },
+    {
+        "Name": "Rhodes2",
+        "Country": "Греція",
+        "X": 77229.2,
+        "Z": 77120.2,
+        "CountryId": 1,
+        "LocalizedNames": {
+            "uk_uk": "Родос"
         }
     }
 ]

@@ -90,7 +90,7 @@ def get_details():
             city_z = city["Z"]
             distance = calculate_distance(player_x, player_z, city_x, city_z)
 
-            #print(f"Різниця дистанція між гравцем та найближчим містом({city['LocalizedNames']['uk_uk']}): {distance} м.")
+            print(f"Різниця дистанція між гравцем та найближчим містом({city['LocalizedNames']['uk_uk']}): {distance} м.")
             if distance <= 500:
                 details = f"Відвідує місто: {city['LocalizedNames']['uk_uk']} ({city['Country']})"
             else:
@@ -133,12 +133,15 @@ def get_small_image():
                 "Франція": "flag_fr",
                 "Туреччина": "flag_tk",
                 "Литва": "flag_lt",
-                "росія": "flag_ru"
+                "росія": "flag_ru",
+                "Косово": "flag_xk",
+                "Північна македонія": "flag_mk",
+                "Греція": "flag_gr",
             }
             
             country = find_nearest_city(truck_data["placement"]["x"], truck_data["placement"]["z"])["Country"]
             small_image = countries.get(country, "logo")
-            print(f"Країна: {country}", f"Прапор: {small_image}")
+            # print(f"Країна: {country}", f"Прапор: {small_image}")
     return small_image
 
 def get_small_text():
